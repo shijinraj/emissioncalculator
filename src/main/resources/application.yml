@@ -1,0 +1,9 @@
+logging:
+  level:
+    root: 'OFF'
+    org:
+      springframework: 'OFF'  
+spring:
+  application:
+    name: emissioncalculator
+
